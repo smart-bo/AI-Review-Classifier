@@ -1,0 +1,443 @@
+	ReviewTitle	P(review|positive)	P(review|negative)	PredicResult	CorrectResult	Prediction is R or W
+0	 The One With Barbie Doll	-384.2695018661212	-420.4207534699237	positive	positive	right
+1	 The one with the Barbie	-133.53096597268228	-146.69560869067917	positive	positive	right
+2	 The One with Frank Jr.	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+3	 The One with Frank Jr.	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+4	 A Much Improved Episode	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+5	 Episode of Monica	-501.80319056617066	-548.7294150851944	positive	positive	right
+6	 The One Where Phoebe Meets Her Brother...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+7	 The one with Isabella Rusolini	-180.54444145270207	-198.0190733367876	positive	positive	right
+8	 The One With The Sex List	-1261.8543774931627	-1378.4587601972783	positive	positive	right
+9	 Yes	-157.03770371269218	-172.3573410137334	positive	positive	right
+10	 Funny episode and full of surprises.	-47.33959425931265	-52.602590172813684	positive	positive	right
+11	 The One with the Flashback	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+12	 Great TV	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+13	 The One Where Everyone Almost Slept With Each Other...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+14	 The One with the Flashback	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+15	 The One Where Joey Moves In	-1167.8274265331224	-1275.8118309050617	positive	positive	right
+16	 Almost	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+17	 Flash	-149.2021244660222	-163.80343023938198	positive	positive	right
+18	 Is that Tag?	-329.4204471394314	-360.543378049464	positive	positive	right
+19	 The One with the Race Car Bed	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+20	 The One with the Race Car Bed	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+21	 Intro	-243.2290754260618	-266.45035953159885	positive	positive	right
+22	 The One Where Joey Teaches A Class...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+23	 The One With A Brand New Bed	-1026.787000093062	-1121.8414369667369	positive	positive	right
+24	 Who is singing?	-360.7627641261113	-394.75902114686954	positive	positive	right
+25	 Matt Le Blanc Is Brilliant Here	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+26	 Zoom	-133.53096597268228	-146.69560869067917	positive	positive	right
+27	 The One Where Phoebe Doesn't Want To Go To The Dentist...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+28	 The One with the Giant Poking Device	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+29	 Ouch	-86.51749049266247	-95.37214404457072	positive	positive	right
+30	 The One With Ugly Madness	-877.9109944063316	-959.3171322540607	positive	positive	right
+31	 Monica bang	-783.8840434462913	-856.6702029618441	positive	positive	right
+32	 Monka bang?	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+33	 One Of The Best Episodes Ever	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+34	 The One with the Football	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+35	 The One with the Football	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+36	 The One With American Thanks Giving	-846.5686774196515	-925.1014891566551	positive	positive	right
+37	 The one with the Geller cup	-486.1320320728307	-531.6215935364917	positive	positive	right
+38	 What??	-141.36654521935225	-155.24951946503057	positive	positive	right
+39	 The One Where Ross Sells Cookies	-392.10508111279114	-428.97466424427506	positive	positive	right
+40	 The One Where Rachel Quits	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+41	 Bully	-164.87328295936214	-180.9112517880848	positive	positive	right
+42	 Gunther	-204.05117919271197	-223.68080565984184	positive	positive	right
+43	 My First Favorite	-321.58486789276145	-351.98946727511264	positive	positive	right
+44	 The One Where Chandler Can't Remember Which Sister	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+45	 The One Where Chandler Can't Remember Which Sister	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+46	 Mary Angela	-329.4204471394314	-360.543378049464	positive	positive	right
+47	 The One With Joey's Sisters	-290.2425509060816	-317.7738241777071	positive	positive	right
+48	 Non	-86.51749049266247	-95.37214404457072	positive	positive	right
+49	 The One with All the Jealousy	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+50	 The One with All the Jealousy	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+51	 The one with an empty vase	-658.514775499571	-719.807630572222	positive	positive	right
+52	 The One Where Joey Speaks French	-305.9137093994215	-334.8816457264099	positive	positive	right
+53	 Barbershop Quartet!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+54	 Dancing	-133.53096597268228	-146.69560869067917	positive	positive	right
+55	 The One Where Monica and Richard Are Just Friends	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+56	 Nice	-133.53096597268228	-146.69560869067917	positive	positive	right
+57	 The One With Little Woman	-721.1994094729312	-788.2389167670331	positive	positive	right
+58	 Robert	-478.29645282616076	-523.0676827621403	positive	positive	right
+59	 The One With Ginger & Third Nipple	-1238.3476397531526	-1352.797027874224	positive	positive	right
+60	 The One with Phoebe's Ex-Partner	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+61	 The one with the nubin	-392.10508111279114	-428.97466424427506	positive	positive	right
+62	 Cat	-63.01075275265258	-69.7104117215165	positive	positive	right
+63	 WTH	-211.88675843938194	-232.23471643419325	positive	positive	right
+64	 The One Where Ross and Rachel Take a Break	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+65	 Aaagh, man	-110.02422823267237	-121.03387636762494	positive	positive	right
+66	 The One With Copy Girl	-1018.951420846392	-1113.2875261923855	positive	positive	right
+67	 What	-78.68191124599251	-86.81823327021931	positive	positive	right
+68	 so moving	-1018.951420846392	-1113.2875261923855	positive	positive	right
+69	 Touching episode.	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+70	 The One the Morning After	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+71	 The acting is top notch, but I hate Ross	-580.1589830328708	-634.2685228287082	positive	positive	right
+72	 One of the best episodes	-345.09160563277135	-377.6511995981668	positive	positive	right
+73	 The One the Morning After	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+74	 Bye bye bang bang	-70.84633199932254	-78.2643224958679	positive	positive	right
+75	 The One In Bedroom	-572.3234037862007	-625.7146120543568	positive	positive	right
+76	 Where did he put it	-392.10508111279114	-428.97466424427506	positive	positive	right
+77	 The One Without the Ski Trip	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+78	 The One Where Car Breaksdown	-721.1994094729312	-788.2389167670331	positive	positive	right
+79	 Ross vs Rachel	-204.05117919271197	-223.68080565984184	positive	positive	right
+80	 Silly	-78.68191124599251	-86.81823327021931	positive	positive	right
+81	 Funny Ski Trip and Cute Ski Outfits	-1058.1293170797421	-1156.0570800641424	positive	positive	right
+82	 The One with the Hypnosis Tape	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+83	 The One with the Hypnosis Tape	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+84	 The One With The Tape	-705.5282509795911	-771.1310952183303	positive	positive	right
+85	 Frankie say relax	-149.2021244660222	-163.80343023938198	positive	positive	right
+86	 Age Difference	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+87	 Yes	-141.36654521935225	-155.24951946503057	positive	positive	right
+88	 The One with the Tiny T-Shirt	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+89	 The One with the Tiny T-Shirt	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+90	 I am a strong confident woman	-141.36654521935225	-155.24951946503057	positive	positive	right
+91	 Wee	-149.2021244660222	-163.80343023938198	positive	positive	right
+92	 Looking For The Right Guy	-2170.7815701068853	-2370.7124100220467	positive	positive	right
+93	 The One With Milk Carton	-1018.951420846392	-1113.2875261923855	positive	positive	right
+94	 The One with the Dollhouse	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+95	 The One With Two Doll Houses	-1191.3341642731325	-1301.4735632281158	positive	positive	right
+96	 Dollhouse Jealousy	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+97	 The One with the Chick and the Duck	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+98	 My character	-572.3234037862007	-625.7146120543568	positive	positive	right
+99	 Chandler and Joey Get Animals, Romance In The Air	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+100	 The One with the Chick and the Duck	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+101	 The One With No DIscovery Channel	-815.2263604329714	-890.8858460592496	positive	positive	right
+102	 The One with the Screamer	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+103	 Ben Stiller steals the show	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+104	 Screaming Man and Cute Outfits	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+105	 The One With Joey's Play	-595.8301415262108	-651.376344377411	positive	positive	right
+106	 The One with Ross's Thing	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+107	 The ending is the funniest part	-258.9002339194017	-283.5581810803016	positive	positive	right
+108	 Hopes	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+109	 The One With Two Guys	-1826.0160832534043	-1994.3403359505776	positive	positive	right
+110	 The One With Blond Girl	-1387.223645439883	-1515.3213325869003	positive	positive	right
+111	 The One with the Ultimate Fighting Champion	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+112	 Pete's Impossible Goal	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+113	 The One at the Beach	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+114	 The One With A Holiday	-909.2533113930117	-993.5327753514662	positive	positive	right
+115	 The One at the Beach	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+116	 Poker and Deeper Arcs	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+117	 The One with the Jellyfish	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+118	 One of the best.	-321.58486789276145	-351.98946727511264	positive	positive	right
+119	 The One With Phoebe's Birth Mother...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+120	 Best line in the episode!	-1559.6063888666235	-1703.5073696226307	positive	positive	right
+121	 Glub	-102.1886489860024	-112.47996559327353	positive	positive	right
+122	 The One With Pee	-995.444683106382	-1087.6257938693313	positive	positive	right
+123	 Part 2/2 Of Beach Episode	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+124	 One Of The Best From Season 4.	-1207.0053227664725	-1318.5813847768186	positive	positive	right
+125	 the black cat	-1144.3206887931124	-1250.1500985820076	positive	positive	right
+126	 The One Where Joey Gets Robbed...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+127	 Reincarnation and Robbery	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+128	 One of two my favorites this season	-360.7627641261113	-394.75902114686954	positive	positive	right
+129	 The One With The Robbery	-1018.951420846392	-1113.2875261923855	positive	positive	right
+130	 The One Where Mathew Shines	-141.36654521935225	-155.24951946503057	positive	positive	right
+131	 The One with the 'Cuffs	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+132	 The One Where Monica Caters A Party For Her Mother...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+133	 The One with Joey's Knowledge Gains	-431.28297734614097	-471.74421811603196	positive	positive	right
+134	 Cuffed To Chair	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+135	 The One with the Ballroom Dancing	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+136	 The One Where Monica And Rachel Are Going To Be Evicted...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+137	 Angry Maintenance Man, Pretty Women, and Pretty Feet	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+138	 The One With Gym Membership	-1590.9487058533036	-1737.7230127200362	positive	positive	right
+139	 The One Where Phoebe Gets A New Voice...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+140	 The One with Joey's New Girlfriend	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+141	 Kathy and New Dates	-854.4042566663215	-933.6553999310065	positive	positive	right
+142	 The One wIth False Relationships	-1011.115841599722	-1104.733615418034	positive	positive	right
+143	 The One with the Dirty Girl	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+144	 Disgusting Apartment	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+145	 The One With Pen Annex Clock	-1543.9352303732835	-1686.399548073928	positive	positive	right
+146	 The One With Ross's Music, It's Terrible...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+147	 Kissing Joey's GF	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+148	 The One With Ross's Music	-1645.7977605799938	-1797.6003881404959	positive	positive	right
+149	 The One with Chandler in a Box	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+150	 The One With The Thanksgiving Dinner...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+151	 Thanksgiving	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+152	 The One Where Joey Punish's Chandler	-368.59834337278124	-403.3129319212209	positive	positive	right
+153	 Old To Party and New Jobs	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+154	 The One With New Jobs	-1543.9352303732835	-1686.399548073928	positive	positive	right
+155	 The One With Dates	-1575.2775473599636	-1720.6151911713334	positive	positive	right
+156	 Taking Charge In The Kitchen, Meeting Love	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+157	 The One with Phoebe's Uterus	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+158	 SEVEN!!!	-313.7492886460915	-343.43555650076127	positive	positive	right
+159	 The One With Equal Lunch	-1551.7708096199535	-1694.9534588482793	positive	positive	right
+160	 Surrogate and Divisions	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+161	 PHOEBE IS AMAZING AS USUAL!!!!	-791.7196226929614	-865.2241137361955	positive	positive	right
+162	 The One with the Embryos	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+163	 Just awesome !	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+164	 My favorite Friends episode of all	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+165	 Fantastic!	-164.87328295936214	-180.9112517880848	positive	positive	right
+166	 One of the best	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+167	 Simply one of the best	-392.10508111279114	-428.97466424427506	positive	positive	right
+168	 Vitro Fertilization and Switching Apartments	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+169	 Not my personal fav but it certainly is one of the best, and an absolute classic in general	-2311.8219965469457	-2524.6828039603756	positive	positive	right
+170	 Por qué tiene tanta calificación este episodio	-110.02422823267237	-121.03387636762494	positive	positive	right
+171	 The One Where Flats Are Swiped	-1112.9783718064323	-1215.934455484602	positive	positive	right
+172	 Sex Acting, Cute Rich Customer	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+173	 The One Where Monica Wants To Be The Host	-1293.1966944798428	-1412.6744032946838	positive	positive	right
+174	 Great Episode with Charlton HESTON	-204.05117919271197	-223.68080565984184	positive	positive	right
+175	 Joey's Fishing Day	-368.59834337278124	-403.3129319212209	positive	positive	right
+176	 Strip Club, Fishy Joey	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+177	 One of the best.	-1363.716907699873	-1489.6596002638462	positive	positive	right
+178	 The One Where Chandler Goes To Yemen	-1073.8004755730822	-1173.1649016128451	positive	positive	right
+179	 The One with All the Rugby	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+180	 Rugby, OCD, Yemen	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+181	 Scrum	-94.35306973933244	-103.92605481892213	positive	positive	right
+182	 The One with the Fake Party	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+183	 Emily's Fake Party For Joshua	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+184	 The One Where Phoebe Eats Meat	-870.0754151596616	-950.7632214797093	positive	positive	right
+185	 Tune the radio knobs!	-117.85980747934234	-129.58778714197635	positive	positive	right
+186	 Jennifer Aniston and Lisa Kudrow	-932.7600491330218	-1019.1945076745203	positive	positive	right
+187	 The One with the Free Porn	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+188	 TV Porn	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+189	 The One With Adult TV Channel	-1348.045749206533	-1472.5517787151434	positive	positive	right
+190	 The One with Rachel's New Dress	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+191	 Paranoia and Parents	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+192	 The One With Sushan & Emily	-1277.5255359865027	-1395.566581745981	positive	positive	right
+193	 The One Where Emily Says Yes	-1120.8139510531023	-1224.4883662589534	positive	positive	right
+194	 Second Marriage and Mon and Rachel Kiss	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+195	 The One with All the Wedding Dresses	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+196	 Sleep Clinic, Trying On Wedding Dresses	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+197	 Great overall!	-1308.8678529731828	-1429.7822248433865	positive	positive	right
+198	 The One With Wedding Coming Up	-1011.115841599722	-1104.733615418034	positive	positive	right
+199	 For REAL Friends fans...	-564.4878245395307	-617.1607012800055	positive	positive	right
+200	 Wedding Invitations and Recap of Ross and Rachel	-290.2425509060816	-317.7738241777071	positive	positive	right
+201	 Bachelor Party, Missing Ring, Duck, Hormones	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+202	 The One Where The Duck Eats The Ring	-313.7492886460915	-343.43555650076127	positive	positive	right
+203	 The One with Ross's Wedding: Part 1	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+204	 The Friends go to London	-2507.7114777136962	-2738.530573319166	positive	positive	right
+205	 London	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+206	 London Baby	-1457.7438586599133	-1592.3065295560627	positive	positive	right
+207	 The One with Ross's Wedding: Part 2	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+208	 One of my favorite episodes because it has the seed of such a fantasy	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+209	 The one with the London wedding	-1880.8651379800945	-2054.2177113710372	positive	positive	right
+210	 RACHEL!	-486.1320320728307	-531.6215935364917	positive	positive	right
+211	 This works pretty well	-956.2667868730318	-1044.8562399975744	positive	positive	right
+212	 The Where It's I Do Rachel	-979.7735246130419	-1070.5179723206286	positive	positive	right
+213	 Dummy	-78.68191124599251	-86.81823327021931	positive	positive	right
+214	 Wedding Ceremony	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+215	 The One After Ross Says Rachel	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+216	 Ross says Rachel's name in his marriage!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+217	 The One Where Chandler And Monica Try To Hookup Again...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+218	 The One After The Wedding	-486.1320320728307	-531.6215935364917	positive	positive	right
+219	 Finding Emily and Flying Out Of London	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+220	 The One Where Rachel Comes Back From Greece...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+221	 The One With Water Breaking & Antlantic City	-1277.5255359865027	-1395.566581745981	positive	positive	right
+222	 Rachel's Confession and Water Breaking	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+223	 Pheobe's Birth	-1434.2371209199032	-1566.6447972330086	positive	positive	right
+224	 The One Where Phoebe Gives Birth To Triplets, AKA, The One Hundredth Episode...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+225	 The One Hundredth	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+226	 The One You Must See	-1191.3341642731325	-1301.4735632281158	positive	positive	right
+227	 The One WIth The Babies	-1026.787000093062	-1121.8414369667369	positive	positive	right
+228	 The One With The Triplets	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+229	 The One Where Chandler Brags...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+230	 Joey On TV and Calling Emily	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+231	 The One With Chicken Sandwich	-352.9271848794413	-386.20511037251816	positive	positive	right
+232	 The One Where Chandler And Monica Go On A Romantic Trip...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+233	 Monica and Chandler are going to travel together!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+234	 The One With Donald Trump	-909.2533113930117	-993.5327753514662	positive	positive	right
+235	 Secret Relationship and How Long Do Friendships Last?	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+236	 The One with the Kips	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+237	 The One With The Yeti	-243.2290754260618	-266.45035953159885	positive	positive	right
+238	 Rachel gets interested in Danny, the new neighbor	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+239	 The One With Emily Over Rachel	-235.39349617939183	-257.89644875724747	positive	positive	right
+240	 The One With Phoebe's Fur Coat...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+241	 Relationship Over Friends?	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+242	 The One Where Ross Moves In	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+243	 Fort of Ross's Belongings and Housewarming Party	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+244	 The One With New Room Buddies	-658.514775499571	-719.807630572222	positive	positive	right
+245	 Crazy Rachel	-329.4204471394314	-360.543378049464	positive	positive	right
+246	 The One Where Chandler Loses A Toe...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+247	 The One with the Thanksgiving Flashbacks	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+248	 Amazing	-149.2021244660222	-163.80343023938198	positive	positive	right
+249	 It's Thanksgiving again!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+250	 The One With The Turkey	-1073.8004755730822	-1173.1649016128451	positive	positive	right
+251	 Monica's Weight Loss	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+252	 The One with Ross's Sandwich	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+253	 The One With Turkey Sandwich	-862.2398359129916	-942.2093107053579	positive	positive	right
+254	 Iconic.	-141.36654521935225	-155.24951946503057	positive	positive	right
+255	" ""I'm Joey.""."	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+256	 The one with Ross's sandwich	-110.02422823267237	-121.03387636762494	positive	positive	right
+257	 Ross is not working....	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+258	 Incest	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+259	 The One With The Inappropriate Siblings	-1700.646815306684	-1857.4777635609555	positive	positive	right
+260	 found a blooper	-1246.1832189998227	-1361.3509386485755	positive	positive	right
+261	 The One with All the Resolutions	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+262	 Awesome.!!	-117.85980747934234	-129.58778714197635	positive	positive	right
+263	 The One WIth Leather Pants	-478.29645282616076	-523.0676827621403	positive	positive	right
+264	 It's New Year's day!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+265	 Just laughing	-180.54444145270207	-198.0190733367876	positive	positive	right
+266	 1999	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+267	 2 contributions	-509.6387698128406	-557.2833258595458	positive	positive	right
+268	 Ross and Janice go out on a date!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+269	 Ross dates Janice	-164.87328295936214	-180.9112517880848	positive	positive	right
+270	 The One With Chandler's Boss	-392.10508111279114	-428.97466424427506	positive	positive	right
+271	 Fake With The Boss and Janice X Ross	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+272	 Joey's Feminine Bag and Phoebe's Dad	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+273	 The One With Phoebe's Dad	-909.2533113930117	-993.5327753514662	positive	positive	right
+274	 Friends at their best!	-956.2667868730318	-1044.8562399975744	positive	positive	right
+275	 The One Where Everybody Finds Out	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+276	 THEE Best Episode of Friends!!!	-227.55791693272187	-249.34253798289606	positive	positive	right
+277	 The one where everybody finds out.	-102.1886489860024	-112.47996559327353	positive	positive	right
+278	 Multiple belly laughs	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+279	 one of the best episodes!	-157.03770371269218	-172.3573410137334	positive	positive	right
+280	 Top 5 Friends Episode - Funny, sweet, and exceptionally well written	-2523.3826362070363	-2755.638394867869	positive	positive	right
+281	 Funny as sh@t	-102.1886489860024	-112.47996559327353	positive	positive	right
+282	 Chandler And Phoebe Are The Best !	-63.01075275265258	-69.7104117215165	positive	positive	right
+283	 -	-235.39349617939183	-257.89644875724747	positive	positive	right
+284	 I wish I had friends like these	-133.53096597268228	-146.69560869067917	positive	positive	right
+285	 Incredible	-407.77623960613107	-446.0824857929778	positive	positive	right
+286	 Everybody discovers about Chandler and Monica...	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+287	 The One Without Ugly Naked Guy	-470.4608735794908	-514.5137719877889	positive	positive	right
+288	 Phoebe x Rachel vs. Chandler x Monica	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+289	 Who is that guy?	-431.28297734614097	-471.74421811603196	positive	positive	right
+290	 The One With Ross's New Apartment	-1786.8381870200542	-1951.5707820788207	positive	positive	right
+291	 Ross's Neighbours and Proposal	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+292	 The One with the Cop	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+293	 The One With The Couch	-1426.4015416732332	-1558.0908864586572	positive	positive	right
+294	 Joey x Monica, Cute Police Officer x Phoebe, PIVOT!	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+295	 The One with Rachel's Inadvertent Kiss	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+296	 The One With The Hotter Couple	-1175.6630057797925	-1284.365741679413	positive	positive	right
+297	" The Hotter Couple and ""Hot Girl"""	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+298	 Rachel Smoking, Rachel's Surprise Birthday Party, Ben vs. Joey	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+299	 The One WIth The Audition	-1590.9487058533036	-1737.7230127200362	positive	positive	right
+300	 My favorite episode of my favorite show !	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+301	 Love it	-352.9271848794413	-386.20511037251816	positive	positive	right
+302	 More Than Meets the Eye	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+303	 The One Where Ross Can't Flirt	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+304	 Nonni	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+305	 The One With Pizza Girl	-1590.9487058533036	-1737.7230127200362	positive	positive	right
+306	 The One with the Ride Along	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+307	 The One With Best Sandwich	-1669.3044983200039	-1823.26212046355	positive	positive	right
+308	 Close Call Day	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+309	 The One With Move Inn & Move Out	-917.0888906396817	-1002.0866861258176	positive	positive	right
+310	 Moving In With The BF, Sphinx Cat and Throwing A Ball	-501.80319056617066	-548.7294150851944	positive	positive	right
+311	 The One with Joey's Big Break	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+312	 The One With 1% Profit	-1120.8139510531023	-1224.4883662589534	positive	positive	right
+313	 Las Vegas Movie	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+314	 The One in Vegas: Part 1	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+315	 The One With Joey's New Job	-1504.7573341399334	-1643.629994202171	positive	positive	right
+316	 Going To Vegas To Meet Joey	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+317	 The One in Vegas: Part 2	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+318	 Partying In Vegas	-0.32611877929285354	-1.2791255267052806	positive	positive	right
+319	 Why is this a 9.0?	-164.87328295936214	-180.9112517880848	positive	negative	wrong
+320	 The One Where Rachel Quits	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+321	 Festive friendly fun	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+322	 1 STAR BECAUSE OF ROSS	-94.35306973933244	-103.92605481892213	positive	negative	wrong
+323	 Good fun	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+324	 Good for one story line only	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+325	 ROSS GROSS	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+326	 The One Where Monica and Richard Are Just Friends	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+327	 The One Where Monica and Richard Are Just... *cough* Friends	-1849.5228209934144	-2020.0020682736317	positive	negative	wrong
+328	 Mouses and houses	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+329	 The One with Phoebe's Ex-Partner	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+330	 Phoebe was once in a duo	-1410.7303831798931	-1540.9830649099545	positive	negative	wrong
+331	 I wish!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+332	 A key episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+333	 The One Where Ross and Rachel Take a Break	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+334	 The worst episode of friends	-188.38002069937204	-206.57298411113902	positive	negative	wrong
+335	 a womans job less important than mans ? today that	-305.9137093994215	-334.8816457264099	positive	negative	wrong
+336	 Painful to see the writer made Rach this unreasonable	-305.9137093994215	-334.8816457264099	positive	negative	wrong
+337	 They were on a break?	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+338	 THEY WERE ON A BREAK!	-211.88675843938194	-232.23471643419325	positive	negative	wrong
+339	 The One Without the Ski Trip	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+340	 Post break-up fun for Ross and Rachel	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+341	 Half of a funny episode.	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+342	 That is a stunning blouse	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+343	 Breaking up is hard to do	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+344	 The One with the Dollhouse	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+345	 I'll call you	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+346	 Hope for Ross and Rachel yet	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+347	 The One with the Screamer	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+348	 Ahh.. Trolls..got to love them.	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+349	 Step away from the duck!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+350	 Want to see how to ruin a perfectly fine episode?	-399.9406603594611	-437.52857501862644	positive	negative	wrong
+351	 The One with Ross's Thing	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+352	 Below average episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+353	 Much better	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+354	 The One with the Ultimate Fighting Champion	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+355	 A little dated...	-282.4069716594116	-309.21991340335575	positive	negative	wrong
+356	 The One with the Ultimate Fighting Champion	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+357	 A fun end to series 3	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+358	 Back to the beach	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+359	 Bad! Bad!! Baaaaaaddddd!!!	-305.9137093994215	-334.8816457264099	positive	negative	wrong
+360	 The One with the Cat	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+361	 A fun episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+362	 Pull a Monica	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+363	 A misleading title, but a good episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+364	 Funny and sad all in one episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+365	 The One Where Monica And Phoebe Become Business Partners...	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+366	 Happy Birthday. I'm sorry	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+367	 So far past the line...	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+368	 The One Where Chandler Crosses the Line	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+369	 A strong episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+370	 Not the best. Not the worst	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+371	 The One Where They're Going to Party!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+372	 Unbelievable	-204.05117919271197	-223.68080565984184	positive	negative	wrong
+373	 Worst Episode from Friends	-1575.2775473599636	-1720.6151911713334	positive	negative	wrong
+374	 His name is Dragon	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+375	 I can't believe this episode was	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+376	 The One with the Girl from Poughkeepsie	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+377	 These aren't real!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+378	 I really hate the character of Pheobe	-1465.5794379065833	-1600.8604403304141	positive	negative	wrong
+379	 It's just messed up!	-682.021513239581	-745.4693628952762	positive	negative	wrong
+380	 The One with Rachel's Crush	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+381	 Here's your girlfriend's button	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+382	 The One with Joey's Dirty Day	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+383	" ""I stink"""	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+384	 Joey stinks. This episode isn't much better	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+385	 SHAME	-258.9002339194017	-283.5581810803016	positive	negative	wrong
+386	 Red Ross	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+387	 Not great	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+388	 Boring Rachel	-290.2425509060816	-317.7738241777071	positive	negative	wrong
+389	 Pretty funny.	-1277.5255359865027	-1395.566581745981	positive	negative	wrong
+390	 Oh the joys of Toblerone	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+391	 Hi, hi, you're crazy	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+392	 The One with All the Haste	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+393	 Apartment swapping	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+394	 A lot of wedding dresses	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+395	 Been rewatching episodes that I had not seen in a LONG time	-721.1994094729312	-788.2389167670331	positive	negative	wrong
+396	 ...	-133.53096597268228	-146.69560869067917	positive	negative	wrong
+397	 The first 'Friends' flashback episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+398	 The One with the Invitation	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+399	 a fine episode	-987.6091038597119	-1079.07188309498	positive	negative	wrong
+400	 You can skip this one.	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+401	 Friendsback (BORING AGAIN)	-595.8301415262108	-651.376344377411	positive	negative	wrong
+402	 The One With A Lot Of Flashback	-211.88675843938194	-232.23471643419325	positive	negative	wrong
+403	 The One with the Worst Best Man Ever	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+404	 A good duck	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+405	 London baby!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+406	 HATE RACHEL	-125.6953867260123	-138.14169791632776	positive	negative	wrong
+407	 THAT'S REALLY SUCKS!!	-204.05117919271197	-223.68080565984184	positive	negative	wrong
+408	 Shall I go on?	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+409	 The One With Ross the Most Dumbest Man on Earth	-376.4339226194512	-411.8668426955723	positive	negative	wrong
+410	 Monica is a horrible sister	-807.3907811863014	-882.3319352848982	positive	negative	wrong
+411	 A dip in quality	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+412	 Rachel is in love with Ross!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+413	 The One with All the Kissing	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+414	 Two dull long-running storylines	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+415	 Phoebe is going to have the triplets!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+416	 Happy 100th	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+417	 Ross still tries to talk to Emily!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+418	 The One Where Phoebe Hates PBS	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+419	 Emily has serious issues	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+420	 The One with the Yeti	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+421	 Another episode bogged down by a weak story	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+422	 The One With Danny's Party...	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+423	 Ross and Emily's marriage REALLY ends.	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+424	 Wanted to like this more...	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+425	 Start of decline	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+426	" The worst ""Friends"" episode."	-1724.153553046694	-1883.1394958840096	positive	negative	wrong
+427	 Phoebe starts to go to literature classes!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+428	 The One with the Inappropriate Sister	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+429	 The One with Chandler's Work Laugh	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+430	 This is supposed to be a review, right?	-799.5552019396314	-873.7780245105469	positive	negative	wrong
+431	 Phoebe finally meets her dad, Frank Buffay!	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+432	 The One with Joey's Bag	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+433	 The One with the Girl Who Hits Joey	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+434	 A storyline with potential but no payoff	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+435	 Perhaps one of my most hated episodes	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+436	 This episode was bad.	-1105.1427925597623	-1207.3805447102507	positive	negative	wrong
+437	 Unfunny	-329.4204471394314	-360.543378049464	positive	negative	wrong
+438	 A weak episode	-1355.881328453203	-1481.1056894894948	positive	negative	wrong
+439	 The One Where Rachel Smokes	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+440	 The title story lets down an otherwise good episode	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
+441	 The One with the Ball	-0.32611877929285354	-1.2791255267052806	positive	negative	wrong
