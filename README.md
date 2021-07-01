@@ -18,3 +18,5 @@ Scrape source datasets from IMDB and create Naïve Bays Classifier model to clas
 - Gradually change the smoothing value from 𝛿 = 1 to 𝛿 = 2 in steps of 0.2. Save the results of 𝛿 = 1.6 in `smooth-model.txt` and `smooth-result.txt`.
 - Plot the performance of the classifiers (correctness of prediction) for different smoothing values against different smoothing values as a graph.
 ### References
+https://www.imdb.com/title/tt0108778/
+
